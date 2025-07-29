@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://trungnguyen1221999/ToDo-App-React-",
+  "homepage": "https://trungnguyen1221999.github.io/ToDo-App-React-",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
